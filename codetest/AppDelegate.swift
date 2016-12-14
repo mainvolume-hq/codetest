@@ -10,7 +10,7 @@ import UIKit
 
 
 //TODO connectivity check
-//TODO get full resolution artwork
+//TODO test (due to urgency not enought time)
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate, UISplitViewControllerDelegate {
