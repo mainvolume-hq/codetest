@@ -23,12 +23,8 @@ class MasterViewController: UITableViewController, UISearchBarDelegate {
     
     @IBOutlet weak var searchBar: UISearchBar!
     var searchActive : Bool = false
-    
     var data = [SearchItem]()
-    var filtered:[String] = []
-    
-    
-    
+
     override func viewDidLoad() {
         super.viewDidLoad()
         NetworkLayerConfiguration.setup()
