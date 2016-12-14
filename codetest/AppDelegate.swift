@@ -11,7 +11,7 @@ import UIKit
 
 //TODO connectivity check
 //TODO test (due to urgency not enought time)
-
+//TODO a bit of cleaning (due to urgency not enought time)
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate, UISplitViewControllerDelegate {
 
